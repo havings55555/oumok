@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>렌주룰 기반 오목 게임</title>
+  <title></title>
   <style>
     body {
       display: flex;
